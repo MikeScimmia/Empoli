@@ -1,0 +1,16 @@
+F:\4F\cherubin niccolo\PuntoVisuale\PuntoVisuale\obj\Debug\net8.0-windows\PuntoVisuale.Form1.resources
+F:\4F\cherubin niccolo\PuntoVisuale\PuntoVisuale\obj\Debug\net8.0-windows\PuntoVisuale.csproj.GenerateResource.cache
+F:\4F\cherubin niccolo\PuntoVisuale\PuntoVisuale\obj\Debug\net8.0-windows\PuntoVisuale.GeneratedMSBuildEditorConfig.editorconfig
+F:\4F\cherubin niccolo\PuntoVisuale\PuntoVisuale\obj\Debug\net8.0-windows\PuntoVisuale.AssemblyInfoInputs.cache
+F:\4F\cherubin niccolo\PuntoVisuale\PuntoVisuale\obj\Debug\net8.0-windows\PuntoVisuale.AssemblyInfo.cs
+F:\4F\cherubin niccolo\PuntoVisuale\PuntoVisuale\obj\Debug\net8.0-windows\PuntoVisuale.csproj.CoreCompileInputs.cache
+F:\4F\cherubin niccolo\PuntoVisuale\PuntoVisuale\bin\Debug\net8.0-windows\PuntoVisuale.exe
+F:\4F\cherubin niccolo\PuntoVisuale\PuntoVisuale\bin\Debug\net8.0-windows\PuntoVisuale.deps.json
+F:\4F\cherubin niccolo\PuntoVisuale\PuntoVisuale\bin\Debug\net8.0-windows\PuntoVisuale.runtimeconfig.json
+F:\4F\cherubin niccolo\PuntoVisuale\PuntoVisuale\bin\Debug\net8.0-windows\PuntoVisuale.dll
+F:\4F\cherubin niccolo\PuntoVisuale\PuntoVisuale\bin\Debug\net8.0-windows\PuntoVisuale.pdb
+F:\4F\cherubin niccolo\PuntoVisuale\PuntoVisuale\obj\Debug\net8.0-windows\PuntoVisuale.dll
+F:\4F\cherubin niccolo\PuntoVisuale\PuntoVisuale\obj\Debug\net8.0-windows\refint\PuntoVisuale.dll
+F:\4F\cherubin niccolo\PuntoVisuale\PuntoVisuale\obj\Debug\net8.0-windows\PuntoVisuale.pdb
+F:\4F\cherubin niccolo\PuntoVisuale\PuntoVisuale\obj\Debug\net8.0-windows\PuntoVisuale.genruntimeconfig.cache
+F:\4F\cherubin niccolo\PuntoVisuale\PuntoVisuale\obj\Debug\net8.0-windows\ref\PuntoVisuale.dll
